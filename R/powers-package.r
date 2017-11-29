@@ -5,7 +5,7 @@
 #' to your vectors.
 #'
 #' @name powers
-#' @author Vincenzo Coia
+#' @author Rishad Habib
 #' @note This package isn't actually meant to be serious. It's just for
 #' teaching purposes.
 #' @docType package
