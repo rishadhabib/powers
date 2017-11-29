@@ -14,7 +14,7 @@
 #'  of \code{x}.
 #'
 #' @details this does a box cox transformation
-#' @examples
+#' @example
 #' boxcox(c(1:10), 2)
 
 
