@@ -40,3 +40,7 @@ powers::reciprocal(2)
 (Again, I don't actually intend for anyone to develop this silly package, but if I did, here's what I'd write.)
 
 Use the internal `pow` function as the machinery for the front-end functions such as `square`, `cube`, and `reciprocal`. 
+
+New additions: 
+    `supersquare` - this squares the squared output
+    `boxcox` - this applies a box cox power transformation
